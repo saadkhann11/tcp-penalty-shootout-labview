@@ -34,7 +34,7 @@ defending across 5 penalties, and the higher score wins.
 ## Screenshots
 
 **Player 1 (Server) and Player 2 (Client) front panels**
-![Front panels](images/front-panels.png)
+![Front panels](images/front-panel.png)
 
 
 
